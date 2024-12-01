@@ -1,0 +1,20 @@
+2024-11-30T21:58:45.212Z [[31merror[39m]: Failed to start server
+2024-11-30T22:00:18.240Z [[31merror[39m]: Failed to start server
+2024-11-30T22:30:13.193Z [[32minfo[39m]: Server is running on port 3000
+2024-11-30T22:31:40.937Z [info]: Server is running on port 3000
+2024-11-30T22:50:05.810Z [info]: Server is running on port 3000
+2024-12-01T01:18:23.736Z [info]: Connected to MongoDB
+2024-12-01T01:18:23.744Z [info]: Server is running on port 3000
+2024-12-01T01:35:14.212Z [info]: Connected to MongoDB
+2024-12-01T01:35:14.217Z [info]: Server is running on port 3000
+2024-12-01T01:38:08.588Z [info]: [2024-12-01T01:38:08.588Z] GET /
+2024-12-01T01:38:08.638Z [info]: Request from IP: ::1, Browser: Chrome 131.0.0, OS: Windows 10.0.0, Device: Other 0.0.0
+2024-12-01T01:38:08.639Z [warn]: 404 - Route not found - /
+2024-12-01T01:38:10.171Z [info]: [2024-12-01T01:38:10.170Z] GET /favicon.ico
+2024-12-01T01:38:10.195Z [info]: Request from IP: ::1, Browser: Chrome 131.0.0, OS: Windows 10.0.0, Device: Other 0.0.0
+2024-12-01T01:38:10.195Z [warn]: 404 - Route not found - /favicon.ico
+2024-12-01T01:38:23.088Z [info]: [2024-12-01T01:38:23.088Z] GET /hi
+2024-12-01T01:38:23.091Z [info]: Request from IP: ::1, Browser: Chrome 131.0.0, OS: Windows 10.0.0, Device: Other 0.0.0
+2024-12-01T01:38:23.091Z [warn]: 404 - Route not found - /hi
+2024-12-01T11:18:30.267Z [info]: Connected to MongoDB
+2024-12-01T11:18:30.272Z [info]: Server is running on port 3000

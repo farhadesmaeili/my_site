@@ -1,0 +1,1 @@
+{"root":["./src/common/enum/loglevel.ts","./src/common/enum/userrole.ts","./src/common/interfaces/ilogger.ts","./src/common/utils/logger.ts","./src/features/auth/domain/entities/user.ts"],"errors":true,"version":"5.7.2"}
